@@ -22,4 +22,5 @@ Quick start
  5. Run `python manage.py migrate` to reflact it on the database.
 
 Now, all you need to go to the dashboard and see.
+
 ![trying it](https://im7.ezgif.com/tmp/ezgif-7-e1f58bb62755.gif)
