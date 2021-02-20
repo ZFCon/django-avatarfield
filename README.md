@@ -11,9 +11,9 @@ Quick start
 
     ```python
 	INSTALLED_APPS = [
-				...
-				'avatar_field',
-				]
+	...
+	'avatar_field',
+	]
 	```
 
  3. Use AvatarForeignKey instade of django normal ForeignKey and add image_field to tell the app what should use from the relation model 
