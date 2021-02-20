@@ -22,4 +22,4 @@ Quick start
  5. Run `python manage.py migrate` to reflact it on the database.
 
 Now, all you need to go to the dashboard and see.
-![enter image description here](docs/ezgif-7-e1f58bb62755.gif)
+![enter image description here](https://github.com/ZFCon/django-avatarfield/blob/main/docs/trying-it.gif)
