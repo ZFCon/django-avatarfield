@@ -1,0 +1,2 @@
+<option value="{{ widget.value|stringformat:'s' }}" {% include "django/forms/widgets/attrs.html" %}
+    data-content="{% if widget.image %}<img src='{{ widget.image.url }}' class='img-circle' width='30px' height='30px'></img>{% endif %} {{ widget.label }}"></option>

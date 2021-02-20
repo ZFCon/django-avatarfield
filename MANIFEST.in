@@ -1,0 +1,4 @@
+include LICENSE
+include README.rst
+recursive-include avatar_field/static *
+recursive-include avatar_field/templates *
