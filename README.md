@@ -7,7 +7,7 @@ Quick start
 
  1. `pip install django-avatarfield`
 
- 2. Add "avatar_field" to your INSTALLED_APPS setting like this::
+ 2. Add "avatar_field" to your INSTALLED_APPS setting like this.
 
     ```python
 	INSTALLED_APPS = [
@@ -16,7 +16,7 @@ Quick start
 		]
 	```
 
- 3. Use AvatarForeignKey instade of django normal ForeignKey and add image_field to tell the app what should use from the relation model 
+ 3. Use AvatarForeignKey instade of django normal ForeignKey and add image_field to tell the app what should use from the relation model.
 ```python
 from avatar_field.model_fields import AvatarForeignKey
 
