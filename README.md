@@ -29,4 +29,4 @@ class Person(models.Model):
 
 Now, all you need to go to the dashboard and see.
 
-![trying it](https://im7.ezgif.com/tmp/ezgif-7-e1f58bb62755.gif)
+![trying it](https://github.com/ZFCon/django-avatarfield/blob/main/docs/trying-it.gif)
